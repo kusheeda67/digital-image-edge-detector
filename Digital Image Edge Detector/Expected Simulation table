@@ -1,0 +1,5 @@
+| Time (ns) | Image Type    | Magnitude | Edge |
+| --------- | ------------- | --------- | ---- |
+| 0         | Reset         | 0         | 0    |
+| 10        | Uniform Image | 0         | 0    |
+| 20        | Strong Edge   | 1020      | 1    |
